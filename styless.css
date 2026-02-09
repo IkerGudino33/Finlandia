@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #313333;
+    border-color: #121E67;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    border-style: double;
+}
+table {
+    background-color: #C8FEF3;
+    color: #000000;
+    border-radius: 5px;
+}
+body table {
+    border-color: #3236EB;
+    border-style: solid;
+}
+h1 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #000C9A;
+
+}
