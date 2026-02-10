@@ -11,6 +11,8 @@ table {
     background-color: #C8FEF3;
     color: #000000;
     border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 body table {
     border-color: #3236EB;
@@ -18,6 +20,8 @@ body table {
 }
 h1 {
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
     color: #000C9A;
 
 }
+
